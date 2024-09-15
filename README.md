@@ -1,2 +1,2 @@
 # Handling_outliers
-How to handle outliers in a dataset
+Handling outliers in a dataset using IQR and Z-score
